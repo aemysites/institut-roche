@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: https://content.da.live/aemysites/institut-roche/
+    type: markup
